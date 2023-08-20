@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019957040155",
+    "firebase_url": "https://ticketflix-backend-default-rtdb.firebaseio.com",
+    "project_id": "ticketflix-backend",
+    "storage_bucket": "ticketflix-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019957040155:android:6bb740bd9f8fe474fcd4be",
+        "android_client_info": {
+          "package_name": "com.example.ticketflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019957040155-8tlopjottoavu28dt931ktcfd4cjr31l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWf6nLOc9A5zmF2vX9K83DJS2njpx3cM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019957040155-8tlopjottoavu28dt931ktcfd4cjr31l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
